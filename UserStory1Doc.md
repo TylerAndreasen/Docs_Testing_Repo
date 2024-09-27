@@ -3,12 +3,12 @@
 # Contents
 
 1. Introduction
-    1.1. User Stories
-    1.2. Relational Databases
-    1.3. Rails
-    1.4. The MVC Framework
-    1.5. The Project At Hand
-    1.6. User Story 1
+ 1.1. User Stories
+ 1.2. Relational Databases
+ 1.3. Rails
+ 1.4. The MVC Framework
+ 1.5. The Project At Hand
+ 1.6. User Story 1
 2. Scaffold
 3. Migration
 4. Server Startup
@@ -31,9 +31,6 @@ A few things to ought be explained before diving to the material at hand.
     
 ### The Project At Hand
  The aim of this web application is to build a system to allow students to create accounts, store their details within a backend database, and be able to view their own and other student's details from a browser. More requirements will be added in future user stories, see the documentation therefor.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
 
 ### User Story 1: Create a Student
 As a student, I want to create a profile with my basic information, So that I can manage my personal details in the system.
