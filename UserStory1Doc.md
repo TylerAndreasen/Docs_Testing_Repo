@@ -3,12 +3,12 @@
 # Contents
 
 1. Introduction
-   -1.1. User Stories
-   -1.2. Relational Databases
-   -1.3. Rails
-   -1.4. The MVC Framework
-   -1.5. The Project At Hand
-   -1.6. User Story 1
+1.1. User Stories
+1.2. Relational Databases
+1.3. Rails
+1.4. The MVC Framework
+1.5. The Project At Hand
+1.6. User Story 1
 2. Scaffold
 3. Migration
 4. Server Startup
