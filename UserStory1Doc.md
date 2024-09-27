@@ -32,6 +32,9 @@ A few things to ought be explained before diving to the material at hand.
 ### The Project At Hand
  The aim of this web application is to build a system to allow students to create accounts, store their details within a backend database, and be able to view their own and other student's details from a browser. More requirements will be added in future user stories, see the documentation therefor.
 
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
 ### User Story 1: Create a Student
 As a student, I want to create a profile with my basic information, So that I can manage my personal details in the system.
 
@@ -41,10 +44,10 @@ Acceptance Criteria:
     - If any required field is missing, the student should see an error message and the record should not be saved.
 
 
-> [!IMPORTANT] There are key assumptions made before the following instructions are meaningful:
-> 1. You have a Ruby on Rails application created inside a Docker container.
-> 2. You have a text editor or IDE which can view and edit the files associated with the application to be developed, which is called portfolio_app.
-> 3. You have a terminal which has been attached to the docker container running the server. Hint: Use the `docker attach` command followed by the name or ID of the running container.
+	> [!IMPORTANT] There are key assumptions made before the following instructions are meaningful:
+	> 1. You have a Ruby on Rails application created inside a Docker container.
+	> 2. You have a text editor or IDE which can view and edit the files associated with the application to be developed, which is called portfolio_app.
+	> 3. You have a terminal which has been attached to the docker container running the server. Hint: Use the docker attach command followed by the name or ID of the running container.
 
 ## Scaffold
 Part of the draw of using a web application framework like Ruby on Rails is the amount of overhead work that is taken on by the framework, meaning a developer must do less work to set up a web app with an expected style. In order to create the necessary backend files run the following command within:
